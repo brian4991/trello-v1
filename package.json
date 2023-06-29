@@ -3,6 +3,8 @@
     "@nestjs/mongoose": "^9.2.2",
     "@nestjs/typeorm": "^9.0.1",
     "mongoose": "^7.2.2",
+    "next": "^13.4.7",
     "typeorm": "^0.3.16"
   }
+  
 }
